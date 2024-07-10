@@ -1,11 +1,10 @@
 <div align="center">
 
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+I'm+SeongRak!;SeongRak+github&fontAlign=50&color=000000&size=40)](https://git.io/typing-svgv)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+I'm+SeongRak!;SeongRak+github&color=000000)](https://git.io/typing-svgv)
 
-<p align="left">
-* :information_desk_person: Web Backend Developer<br>
-</p>
+* :information_desk_person: Web Backend Developer<br><br><br><br>
+
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
