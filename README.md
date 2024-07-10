@@ -1,4 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+I'm+SeongRak!;SeongRak+github)](https://git.io/typing-svg)
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<div align="center">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoiSeongRak)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <!--
 **ChoiSeongRak/ChoiSeongRak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
