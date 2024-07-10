@@ -1,6 +1,7 @@
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+I'm+SeongRak!;SeongRak+github&fontAlign=50)](https://git.io/typing-svgv)
+
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+I'm+SeongRak!;SeongRak+github&fontAlign=50&color=000000&size=40)](https://git.io/typing-svgv)
 
 <p align="left">
 * :information_desk_person: Web Backend Developer<br>
