@@ -1,4 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+I'm+SeongRak!;SeongRak+github&fontAlign=50)](https://git.io/typing-svgv)
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+I'm+SeongRak!;SeongRak+github&fontAlign=50)](https://git.io/typing-svgv)
+
+<p align="left">
+* :information_desk_person: Web Backend Developer<br>
+</p>
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
@@ -19,18 +25,6 @@
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
   <a href="https://velog.io/@sr_c/posts"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@sr_c/posts"/></a>&nbsp
-
-<!--
-**ChoiSeongRak/ChoiSeongRak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiSeongRak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
