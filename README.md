@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Mango+github;SeongRak+github)](https://git.io/typing-svg)
 
 <!--
 **ChoiSeongRak/ChoiSeongRak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
